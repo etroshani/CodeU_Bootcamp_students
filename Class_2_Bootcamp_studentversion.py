@@ -13,6 +13,8 @@
 
 #   2) Learning how to use Visual Studio Code
 
+#   3) Strings, Integers, Floats, and Booleans
+
 
 
 ####     SECOND PART    ####
@@ -20,32 +22,16 @@
 ##   1. Your first code!    ##
 
 #   Code 'Hello World' and other possible Strings using print(). 
-"""
 
-INSERT CODE HERE
-
-"""
 
 #   Defining a variable
-"""
 
-INSERT CODE HERE
-
-"""
 
 #   Overriding a variable
-"""
 
-INSERT CODE HERE
-
-"""
 
 #   Combining Strings
-"""
 
-INSERT CODE HERE
-
-"""
 
 
 ##   2. Turning Python into a Calculator!   ##
@@ -56,80 +42,40 @@ INSERT CODE HERE
 #   Additions
 
 # Example 1
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Example 2
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Example 3
-"""
 
-INSERT CODE HERE
-
-"""
 
 # More efficient way to add to variable x
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Example 4
-"""
 
-INSERT CODE HERE
-
-"""
 
 
 #   Substractions
 
 # Example 5
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Example 6
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Example 7
-"""
 
-INSERT CODE HERE
-
-"""
 
 
 #   Multiplications
 
 # Example 8
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Example 9
-"""
 
-INSERT CODE HERE
-
-"""
 
 
 
@@ -147,46 +93,19 @@ INSERT CODE HERE
 ###     HOMEWORK SOLUTION     ###
 
 # Greet the user
-"""
 
-INSERT CODE HERE
-
-"""
 
 # Addition of 2 numbers: 123 456 and 876 544
-# DO NOT REMOVE THE PRINT() STATEMENTS
-"""
-print("ADDITION")
-print("123 456 + 876 544 =")    
 
-INSERT CODE HERE
 
-"""
 
 # Subtraction of 2 numbers: 10 000 and 555
-#DO NOT REMOVE THE PRINT() STATEMENTS
-"""
-print("SUBTRACTION")
-print("10 000 - 555 = ")
 
-INSERT CODE HERE
 
-"""
 
 # Multiplication of 3 numbers: 25, 26, and 27
-# DO NOT REMOVE THE PRINT() STATEMENTS
-"""
-print("MULTIPLICATION")
-print("25 * 26 * 27 = ")
 
-INSERT CODE HERE
-
-"""
 
 # Thank the user for using your calculator
-"""
 
-INSERT CODE HERE
-
-"""
 
